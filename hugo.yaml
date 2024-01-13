@@ -1,5 +1,5 @@
-baseURL: 'https://minimal-marketing.pages.dev'
-title: 'Minimal Marketing'
+baseURL: 'https://www.puzzlehq.co/'
+title: 'Puzzle Solutions'
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -10,23 +10,14 @@ paginate: 9
 enableInlineShortcodes: true
 
 params:
-  author:
-  author_image: /images/defaults/author.jpg
-  og_image: /images/defaults/featured_image.jpg
-  moto: "Learn marketing at a minimal cost."
-  description: "This website costs only $10/year to host. Which leaves you plenty of room to experiment with your time without burning cash on marketing."
+  author: Ananth Bhamidipati
+  og_image: /images/defaults/image.jpeg
+  moto: "Puzzle Solutions"
+  description: "Elevate your digital presence with Puzzle Solutions, where we transform ideas into exceptional mobile apps through innovative design and cutting-edge development."
   google_analytics_id: '' # @NOTE: To remove the G2A tag, juste leave this key to an empty string.
   cta:
-    text: Book a meeting
-    url: https://www.youtube.com/watch?v=oHg5SJYRHA0
-  footer:
-    social_url: https://twitter.com/afrodudeonabike
-    social_username: '@afrodudeonabike'
-
-
-taxonomies:
-  category: Categories
-  tag: Tags
+    text: Contact
+    url: mailto:ananth@puzzlehq.co
 
 markup:
   goldmark:
