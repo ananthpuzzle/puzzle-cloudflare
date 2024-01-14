@@ -1,19 +1,13 @@
-baseURL: 'https://www.puzzlehq.co/'
-title: 'Puzzle Solutions'
+baseURL: "https://www.puzzlehq.co/"
 languageCode: en-us
+title: "Puzzle Solutions"
 DefaultContentLanguage: en
-enableEmoji: true
-enableGitInfo: true
-enableRobotsTXT: true
-canonifyURLs: true
-paginate: 9
-enableInlineShortcodes: true
 
 params:
   author: Ananth Bhamidipati
   og_image: /images/defaults/image.jpeg
   moto: "Puzzle Solutions"
-  description: "Elevate your digital presence with Puzzle Solutions, where we transform ideas into exceptional mobile apps through innovative design and cutting-edge development."
+  description: "Elevate your digital presence with Puzzle Solutions, where we transform ideas into exceptional mobile apps through innovative design and cutting-edge development. We are based in Antwerpen, Belgium."
   google_analytics_id: '' # @NOTE: To remove the G2A tag, juste leave this key to an empty string.
   cta:
     text: Contact

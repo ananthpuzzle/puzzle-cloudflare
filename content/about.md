@@ -2,7 +2,7 @@
 
 ## About us
 
-"Welcome to Puzzle Solutions, your gateway to innovative app and website development! At Puzzle Solutions, we're not just creating digital solutions; we're piecing together the perfect puzzles for your unique needs. As the founder and chief puzzle solver, I am dedicated to unraveling the complexities of technology to provide you with seamless, engaging, and cutting-edge solutions.
+"Welcome to Puzzle Solutions, your gateway to innovative app and website development in **Antwerpen, Belgium**! At Puzzle Solutions, we're not just creating digital solutions; we're piecing together the perfect puzzles for your unique needs. As the founder and chief puzzle solver, I am dedicated to unraveling the complexities of technology to provide you with seamless, engaging, and cutting-edge solutions.
 
 Our Vision
 At Puzzle Solutions, we envision a digital world where every piece fits perfectly. Whether you're looking to enhance your online presence, streamline business processes, or create captivating user experiences, we have the expertise to solve the puzzle.
